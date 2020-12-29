@@ -35,3 +35,5 @@ Fit the training data to a linear regression model and got the following results
 * Mean Absolute Error: 2778.88
 * Mean Squared Error: 19483634.37
 
+## Conclusion
+We can see that the most relevant information to predict medical costs are the bmi and whether the individual is a smoker or not. Bmi has a positive correlation with medical costs and on average, smokers pay much more for medical costs than individuals that don't smoke. Age and sex are the other indicators of how high an individual's medical cost will be. Men tend to have a slightly higher medical cost and as an individual gets older, their medical costs rise accordingly. 
